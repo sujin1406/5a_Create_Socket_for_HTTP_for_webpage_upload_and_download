@@ -111,7 +111,7 @@ webpage.html
 ```
 webpage.txt
 ```
-![alt text](cn5(txt).png)
+5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/cn5(txt).png
 ```
 ## OUTPUT
 ![alt text](cn5(1).png)
