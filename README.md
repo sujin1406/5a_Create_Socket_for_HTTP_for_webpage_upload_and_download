@@ -110,11 +110,12 @@ webpage.html
 
 ```
 webpage.txt
-```
-5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/cn5(txt).png
-```
+<br>
+<img width="709" height="128" alt="image" src="https://github.com/user-attachments/assets/43bb558c-837a-4b9a-9611-a9b70d70ec37" />
+
 ## OUTPUT
 ![alt text](cn5(1).png)
+
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
